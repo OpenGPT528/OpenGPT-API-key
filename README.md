@@ -51,8 +51,9 @@ ChatGPT具有严格的安全保障措施，确保用户的隐私和信息安全�
 
 ChatGPT的目标是成为最优秀的人工智能聊天机器人之一，助力用户获得更优秀的与人工智能之间自然而智能的交互体验。
 #opengpt
-但我们在中国无法使用openAI的任何服务，所以这个由我（李星卓，xingzhuolii@iCloud.com,18310424001）和我的LISIAI团队开发的项目正式启动，在之前我发布了第一个版本的OpenGPT，但那只是给beta版本。请使用Python语言编写！ 基于python3.11 https://platform.openai.com/docs/guides/chat/introduction
+但我们在中国无法使用openAI的任何服务，所以这个由我（李星卓，xingzhuolii@outlook.com,18310424001）和我的LISIAI团队开发的项目正式启动，在之前我发布了第一个版本的OpenGPT，但那只是给beta版本。请使用Python语言编写！ 基于python3.11 https://platform.openai.com/docs/guides/chat/introduction
 2023/04/01 LISIAI.Co and ©李星卓 18310424001
+V-2.0
 基于GNU3开源，严禁盈利！
 GPT.py:OpenGPT主程序
 v-GPT.py:视觉模块

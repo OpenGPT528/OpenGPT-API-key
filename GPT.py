@@ -2,7 +2,7 @@ import openai
 import prompt_toolkit
 
 # Set up OpenAI API key
-openai.api_key = "INSERT_YOUR_API_KEY_HERE"
+openai.api_key = ""
 
 # Define function to generate response from GPT-3
 def generate_response(prompt):
@@ -21,7 +21,7 @@ def generate_response(prompt):
 def chat():
     while True:
         user_input = prompt_toolkit.prompt("> ")
-        if user_input.lower() in ["exit", "quit"]:
+        if user_input.lower() in ["exit", "quit","再见","退出","拜拜"]:
             break
         prompt = f"User: {user_input}\nChatGPT:"
         response = generate_response(prompt)
